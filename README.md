@@ -1,2 +1,2 @@
-# hello-world2
-Data structure and Algorithms - Specialization
+# NAME: Santhosh Kumar K
+# EMAIL : santhosh203020@gmail.com
